@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #286",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/286.png",
+  "dna": "681145a946d3774e3d224644b24dc6d17b9e7530",
+  "edition": 286,
+  "date": 1654429516134,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Magenta Pink Taffy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Laker Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Colombia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Grape"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Shamrock Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

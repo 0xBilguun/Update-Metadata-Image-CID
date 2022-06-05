@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #376",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/376.png",
+  "dna": "19ff32d98c457f8c5159d785a8e5fb8b5284c529",
+  "edition": 376,
+  "date": 1654429024463,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kelly Green Red Dirt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Heather Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Grape"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Basil Crocodile"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #775",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/775.png",
+  "dna": "3645cc7e3329cbd4b0c0f68d021af47a5667f83a",
+  "edition": 775,
+  "date": 1654429343696,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Tangerine Latte"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Heather Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Venom Green Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mukluks Sapphire Apple"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

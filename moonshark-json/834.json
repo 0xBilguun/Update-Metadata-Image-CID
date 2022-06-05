@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #834",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/834.png",
+  "dna": "5cf3e67688a966a5e0ef485bc8385d780262b9b1",
+  "edition": 834,
+  "date": 1654428839250,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Crocodile Pear"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Heather Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Colombia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Porpoise"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Pickle"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

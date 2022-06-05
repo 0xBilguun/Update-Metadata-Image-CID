@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #760",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/760.png",
+  "dna": "cc5590c3ff2bbb882bf69476ede192bbbac54ce8",
+  "edition": 760,
+  "date": 1654429148826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Hazelwood Oyster"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of UK"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Lava"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Rasin Wine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

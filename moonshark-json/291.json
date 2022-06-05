@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #291",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/291.png",
+  "dna": "1879a23ca23eb237e5b508d6408f0b8cd58cb71c",
+  "edition": 291,
+  "date": 1654429017829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Marmalade Amber Jam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "King Tiger"
+    },
+    {
+      "trait_type": "Top",
+      "value": "All Eyes on MJ"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Multi Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Mocha Gold"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #888",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/888.png",
+  "dna": "0d2c4e43d663d341e1ab2640e0ab1fe1813d988b",
+  "edition": 888,
+  "date": 1654429561443,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Oak Brown Mocha Cookie Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sandcastle gunner"
+    },
+    {
+      "trait_type": "Top",
+      "value": "OKC NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jade"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Shamrock Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #311",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/311.png",
+  "dna": "d0a00c7ef20ba422a64697dc0981f8774ab73cc0",
+  "edition": 311,
+  "date": 1654429546737,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth Blue Sage Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Arctic Triber"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Earth Blue RW Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Byzantine"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Arctic Pebble"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #273",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/273.png",
+  "dna": "d5656c619a64452e30cdb8901cf92fced58c4d9d",
+  "edition": 273,
+  "date": 1654429443046,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Blush Rose"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Flint Chicken Lover"
+    },
+    {
+      "trait_type": "Top",
+      "value": "1k Green Planet Rigel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Helio"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Iris Ruby"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

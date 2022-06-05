@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #619",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/619.png",
+  "dna": "52100a971515f28be30ccd7556847f9fae3c8765",
+  "edition": 619,
+  "date": 1654429406390,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Oak Brown Mocha Cookie Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Koi Gucci Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Multi Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Porpoise Tortilla"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

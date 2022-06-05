@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #712",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/712.png",
+  "dna": "907b8ce04dee83a46a14331beaaae741b9128416",
+  "edition": 712,
+  "date": 1654429601122,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Medium Forest Rubber Ducky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bumblebee Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Jeday Aldebaran"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Dark Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Ochre Mellow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

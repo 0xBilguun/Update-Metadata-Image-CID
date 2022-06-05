@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #379",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/379.png",
+  "dna": "2f1281027fe79506cbf9da33d9da5b19a1e7e4c9",
+  "edition": 379,
+  "date": 1654428866326,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Purple Lilac Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Butterfinger Spikey"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Night Blood Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Lapis"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Mulberry Honey"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

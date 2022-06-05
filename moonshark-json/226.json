@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #226",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/226.png",
+  "dna": "1fa414ae1b0d8bef8bfbe881aba2fd3bb261eaa8",
+  "edition": 226,
+  "date": 1654428719312,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Flame Gold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sage Green Sugar"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Colombia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Grape"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Bumblebee"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

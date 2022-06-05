@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #342",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/342.png",
+  "dna": "835477e18bf72d29269fc6ab1dfb56f8f749d4c6",
+  "edition": 342,
+  "date": 1654429215478,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Dijon Oyster Sand Dollar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cobalt Green Stripes"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Venom Green Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Sangria"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Admiral Fire"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

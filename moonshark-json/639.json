@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #639",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/639.png",
+  "dna": "ad6e84c4782d7f5760e3271aeefe82b49a77f36f",
+  "edition": 639,
+  "date": 1654429302520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Cerulean Sapphire Arctic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal Pink"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Thunder Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Cobalt"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Shamrock Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

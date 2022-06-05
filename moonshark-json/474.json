@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #474",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/474.png",
+  "dna": "7b4c48b4620100f1f03cd19a210d6bdaf7a613a9",
+  "edition": 474,
+  "date": 1654428923320,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Mint Seafoam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bob Sharkley"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Jazz NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Burgundy Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Cerulean"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

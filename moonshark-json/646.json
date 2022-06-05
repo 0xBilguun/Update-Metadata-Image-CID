@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #646",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/646.png",
+  "dna": "8c43a016f454be4ba9a42ee51696ec2fd7fa3e26",
+  "edition": 646,
+  "date": 1654429579534,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kelly Green Red Dirt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Frosted Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat MultiCamo"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

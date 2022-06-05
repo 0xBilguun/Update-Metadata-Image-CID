@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #580",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/580.png",
+  "dna": "a85e6e36f0078c4b4c4de370a0bd57dec09f5a27",
+  "edition": 580,
+  "date": 1654429571062,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Iris Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Bomber"
+    },
+    {
+      "trait_type": "Top",
+      "value": "White Blood Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Hunter"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Ocean Coral"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

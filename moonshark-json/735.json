@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #735",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/735.png",
+  "dna": "30da823e140b8e5d0c1126195f70145bbc32b645",
+  "edition": 735,
+  "date": 1654429369274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Frame Red Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Flint Chicken Lover"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Grape"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mukluks Sapphire Apple"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

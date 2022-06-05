@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #578",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/578.png",
+  "dna": "ab96fb09679691d1960e8d67e92393d66e83c39d",
+  "edition": 578,
+  "date": 1654429308271,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Iris Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Heather Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Fox Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Walnut"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Fuscia Lilac"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

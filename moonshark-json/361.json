@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #361",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/361.png",
+  "dna": "42e38e37f31534048d130cb5e148507be00d5b7e",
+  "edition": 361,
+  "date": 1654428921638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Iris Sage Pistachoi"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orchid Purple Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Purple Camo"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Multi Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Pickle"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

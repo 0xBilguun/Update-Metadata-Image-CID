@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #419",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/419.png",
+  "dna": "9b52f3d3c94adb8818140be25de8f3a7aa3b7dd0",
+  "edition": 419,
+  "date": 1654429370972,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Dijon Oyster Sand Dollar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Arctic Triber"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Venom Green Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Gingerbread"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Pistachio Cream"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

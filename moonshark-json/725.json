@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #725",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/725.png",
+  "dna": "7acabe45bd82bc11f845e160c33af2709560fcb8",
+  "edition": 725,
+  "date": 1654429179695,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Ginger Moccasin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Granola Chicken"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of UK"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Mocha Gold"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

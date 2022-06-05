@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #518",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/518.png",
+  "dna": "d61e1fe55c534beb64ecc1b31e1a6255ea4e562a",
+  "edition": 518,
+  "date": 1654429072513,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Blue Whale Glacial Blue Ice"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hawaiian Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Happy Shib Achernar"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Cobalt"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Admiral Fire"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

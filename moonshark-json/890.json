@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #890",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/890.png",
+  "dna": "eb73d4a58a9aa31cbc32ea3dd259ec494bdb671d",
+  "edition": 890,
+  "date": 1654429178861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Lilac Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Heather Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Colombia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Ruby Lavender"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

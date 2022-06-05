@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #584",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/584.png",
+  "dna": "4df2bed4a50eb7a78928501be3e01a224f5cd041",
+  "edition": 584,
+  "date": 1654429016987,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Parakeet Lime"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Gunner"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of UK"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Multi Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Cobalt Latte"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

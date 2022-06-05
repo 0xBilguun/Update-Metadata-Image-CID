@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #731",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/731.png",
+  "dna": "ec388b41907673bebb75b2ae853a3eecf6d232fe",
+  "edition": 731,
+  "date": 1654429403009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Chartreuse Cedar Peanut"
+    },
+    {
+      "trait_type": "Body",
+      "value": "True Great"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Japan"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Fern"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Moss Pear"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

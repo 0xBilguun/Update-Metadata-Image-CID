@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #371",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/371.png",
+  "dna": "de4339a238e909be5c50e9611d6970d400f327bd",
+  "edition": 371,
+  "date": 1654428904178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chupapi Lilac Lavender"
+    },
+    {
+      "trait_type": "Body",
+      "value": "King Jedi"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Thunder Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Sangria Rosewood"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

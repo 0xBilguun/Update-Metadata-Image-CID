@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #990",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/990.png",
+  "dna": "94c4c72f79cbebca820b8d22d842ac2ca8321282",
+  "edition": 990,
+  "date": 1654428762048,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Scarlet Porcelain Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Biscotti Spotted"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Venom Green Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Porpoise"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Basil Crocodile"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

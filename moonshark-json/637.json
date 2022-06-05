@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #637",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/637.png",
+  "dna": "74bfe2ab3b3e5198f56eacdb9afca8d9fec6e2b9",
+  "edition": 637,
+  "date": 1654428908225,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Lemon Fuscia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bob Sharkley"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Russia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Trout"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Hessian Thulian Punch"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

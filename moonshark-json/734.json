@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #734",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/734.png",
+  "dna": "d0fda4b1b7116ed20ac8d0c4eed168acedc87a68",
+  "edition": 734,
+  "date": 1654429034292,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Tortilla Sage Olive"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Crocodile Hunter"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Green Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Basil Crocodile"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

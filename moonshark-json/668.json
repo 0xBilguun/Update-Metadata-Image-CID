@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #668",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/668.png",
+  "dna": "1fa98d6b29b20cbc9dd068d13ac5874648da0cde",
+  "edition": 668,
+  "date": 1654428799462,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Iris Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Stripes"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Celtics NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Moss Pear"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

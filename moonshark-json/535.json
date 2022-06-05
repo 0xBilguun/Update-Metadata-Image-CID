@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #535",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/535.png",
+  "dna": "29e6efc46dbf3e74028b9e20e5c6bcb19e15aec6",
+  "edition": 535,
+  "date": 1654428722610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Blush Rose"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Party Purple"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Jeday Aldebaran"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Gingerbread"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Ochre Mellow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

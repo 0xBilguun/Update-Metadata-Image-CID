@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #282",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/282.png",
+  "dna": "2e3060bd76f55bd1f66b02abcff6c1bc4f2033ce",
+  "edition": 282,
+  "date": 1654429161976,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Lilac Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Porpoise Spears"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Independence"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Admiral Fire"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

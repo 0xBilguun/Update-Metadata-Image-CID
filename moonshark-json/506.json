@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #506",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/506.png",
+  "dna": "58b4b64ab2ab8ec628b73c4fbc099f22beda23cb",
+  "edition": 506,
+  "date": 1654429323197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Lilac Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Porpoise Spears"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of India"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Army Camo"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Crimson Snow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

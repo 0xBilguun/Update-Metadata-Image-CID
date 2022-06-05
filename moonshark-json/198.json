@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #198",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/198.png",
+  "dna": "9e6b03b099b63ddda57e3027833da722ec526d11",
+  "edition": 198,
+  "date": 1654428727407,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Smoky Blood"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Butterfinger Spikey"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Leopard Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Dark Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Admiral Fire"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

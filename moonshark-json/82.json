@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #82",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/82.png",
+  "dna": "aceee3d614c67f261bcb2f2d6592ee86db33ec8c",
+  "edition": 82,
+  "date": 1654429653364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Iris Sage Pistachoi"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smoke Ganner"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Happy Shib Achernar"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Green Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Rasin Wine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #828",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/828.png",
+  "dna": "99c73993d1afc3bace540b5c5f21535f4461bcfd",
+  "edition": 828,
+  "date": 1654429143953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Tawny Pistachio Teal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of India"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Chill"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Lime Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

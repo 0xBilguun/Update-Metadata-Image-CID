@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #916",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/916.png",
+  "dna": "5851cc3cdd54270bde4892229ab1a7f2c236d8c9",
+  "edition": 916,
+  "date": 1654429645098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Cobalt Brick Hazelwood"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "White Blood Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Ocean Coral"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

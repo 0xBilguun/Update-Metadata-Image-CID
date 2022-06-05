@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #806",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/806.png",
+  "dna": "8ef87a7d26014e0401f90fb78e1353e1fafcce55",
+  "edition": 806,
+  "date": 1654429169107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Tangerine Latte"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dirty Green"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Fern"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Bumblebee"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

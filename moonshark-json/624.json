@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #624",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/624.png",
+  "dna": "bfb18166d2386ab3859d0e6b4c3b0ad4e5ab23d9",
+  "edition": 624,
+  "date": 1654429374077,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Mint Seafoam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "True Great"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Sixers NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Mulberry Honey"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

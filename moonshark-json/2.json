@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #2",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/2.png",
+  "dna": "da2c16d41bcda7f4ed09fadd7e12327d7cff2c16",
+  "edition": 2,
+  "date": 1654428894349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Magenta Dijon Sepia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sage Infinity Gauntlet"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Jazz NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Gingerbread"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Mauve Blush"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

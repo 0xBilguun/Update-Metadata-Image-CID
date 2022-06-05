@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #651",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/651.png",
+  "dna": "cc55dd175e0c2aa4e9f54dcc9edaa9be084624be",
+  "edition": 651,
+  "date": 1654429193931,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Dijon Oyster Sand Dollar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tangerine Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Celtics NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Porpoise Dijon"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

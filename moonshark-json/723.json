@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #723",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/723.png",
+  "dna": "77f24335d8561222aaa462a2dbb4de8f167fef0f",
+  "edition": 723,
+  "date": 1654429394697,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Moccasin Sandstone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tattoo Tobinski"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Jazz NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Magenta"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Camo Wine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

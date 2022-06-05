@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #265",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/265.png",
+  "dna": "df80151b796e03303f2ba950dd1aa0608f323b64",
+  "edition": 265,
+  "date": 1654429649971,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Dijon Oyster Sand Dollar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Party Purple"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Iris Heather"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Sage Sand"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

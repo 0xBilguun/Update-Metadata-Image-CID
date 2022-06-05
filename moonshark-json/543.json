@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #543",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/543.png",
+  "dna": "625cd49dbd24bb43cddd21fe2a2cc8ee6a0f51d1",
+  "edition": 543,
+  "date": 1654429207132,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Scarlet Porcelain Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Great White Stripes"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Moccasin Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Buttermilk Pear"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

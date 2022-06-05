@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #552",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/552.png",
+  "dna": "d7a9753064e2e1ffdb862b4d89bf967a0e09c1ed",
+  "edition": 552,
+  "date": 1654429113487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Fern Ocean Stone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Laker Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Koi Gucci Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Parakeet Spot"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Crimson Snow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

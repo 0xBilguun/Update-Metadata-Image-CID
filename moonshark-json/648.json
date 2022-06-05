@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #648",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/648.png",
+  "dna": "b891baeb76eccb9aaf8ff1e3696653d8a4dfcefb",
+  "edition": 648,
+  "date": 1654429236821,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Ocean Teal Frost"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orchid Purple Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Gingerbread"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Shamrock Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

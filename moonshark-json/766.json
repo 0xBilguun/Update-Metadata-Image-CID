@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #766",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/766.png",
+  "dna": "e1e429f339921dc1c61540695923c6b4c2b9b1e1",
+  "edition": 766,
+  "date": 1654429353768,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Smoky Blood"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sky Walker"
+    },
+    {
+      "trait_type": "Top",
+      "value": "OKC NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Magenta"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Basil Crocodile"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

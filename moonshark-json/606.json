@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #606",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/606.png",
+  "dna": "2c600b9eb0bc004eaf93df455c4a5d6832f43f3a",
+  "edition": 606,
+  "date": 1654428963690,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kelly Green Red Dirt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Space Soldier"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of UK"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Chill"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Seaweed"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

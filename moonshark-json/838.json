@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #838",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/838.png",
+  "dna": "c93ff88ea073d8cc965ecf3f18fc7be5b5ddcc0b",
+  "edition": 838,
+  "date": 1654429120107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chupapi Magenta Taffy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Biscotti Spotted"
+    },
+    {
+      "trait_type": "Top",
+      "value": "OKC NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Buttermilk Pear"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

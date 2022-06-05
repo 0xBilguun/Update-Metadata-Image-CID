@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #841",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/841.png",
+  "dna": "2972247a7dbcfcf90f19b64213bfa49be1dc5c2a",
+  "edition": 841,
+  "date": 1654429272542,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Scarlet Porcelain Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tangerine Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Japan"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Green Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mukluks Sapphire Apple"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

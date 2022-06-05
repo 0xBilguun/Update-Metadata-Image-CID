@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #460",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/460.png",
+  "dna": "2220ac52a3cdf2eac50b09411027293328d7d346",
+  "edition": 460,
+  "date": 1654429372502,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Medium Forest Rubber Ducky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tangerine Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Fern"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Lime Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #829",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/829.png",
+  "dna": "5ed8835f2d74a8e665a3768c6104415daa84b2fe",
+  "edition": 829,
+  "date": 1654429268381,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Aquamarine Dark Violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sage Infinity Gauntlet"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Colombia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Grape"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Porpoise Dijon"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

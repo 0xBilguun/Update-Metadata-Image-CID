@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #398",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/398.png",
+  "dna": "fdc8a2d7f8a88af0ba1b23975724d3f4c4b78c26",
+  "edition": 398,
+  "date": 1654429288307,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Stone Teal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Glowing Gutter"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Colombia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Salt Iris"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Multi Camo"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #532",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/532.png",
+  "dna": "ea9d3ce05bf509ca36af8f9db0e19c6f1e9f0e6d",
+  "edition": 532,
+  "date": 1654428739995,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Tangerine Latte"
+    },
+    {
+      "trait_type": "Body",
+      "value": "King Tiger"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Fox Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Cobalt"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Seaweed"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #266",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/266.png",
+  "dna": "08c65bc3e459b1e5bf1b444260724ba841615d5c",
+  "edition": 266,
+  "date": 1654428913272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Fern Ocean Stone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bob Sharkley"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of China"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shamrock Tortilla"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Basil Crocodile"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

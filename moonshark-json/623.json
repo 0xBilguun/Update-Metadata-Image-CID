@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #623",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/623.png",
+  "dna": "df68dc8500376d41e675ece852967a2ab96e9056",
+  "edition": 623,
+  "date": 1654429166005,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Marmalade Amber Jam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cobalt Green Stripes"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Fox Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Trout"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Rasin Wine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

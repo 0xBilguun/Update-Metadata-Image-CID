@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #176",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/176.png",
+  "dna": "1a6bb4dc79fd8f456ed124b9fd5948959aaac08b",
+  "edition": 176,
+  "date": 1654429127713,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Smokey Battleship Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "True Great"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Earth Blue RW Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Hunter"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Porpoise Dijon"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

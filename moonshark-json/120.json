@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #120",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/120.png",
+  "dna": "989351d12aac07c55c2a4ce448f197a1f17afb8e",
+  "edition": 120,
+  "date": 1654429505049,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Flame Orchid Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sandcastle gunner"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of China"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Seaweed"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

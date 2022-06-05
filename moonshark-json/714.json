@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #714",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/714.png",
+  "dna": "37c70e29697604b1aab077dead7dce1dba2d1e12",
+  "edition": 714,
+  "date": 1654429097947,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Magenta Pink Taffy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sage Chicken Lover"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Porpoise"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Admiral Fire"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

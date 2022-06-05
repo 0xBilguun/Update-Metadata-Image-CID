@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #441",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/441.png",
+  "dna": "648808d9ed2c983f84b7a1bfd476a9c82bbb9581",
+  "edition": 441,
+  "date": 1654429513586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Iris Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Israel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Fern"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Mulberry Honey"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

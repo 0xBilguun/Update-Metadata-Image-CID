@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #615",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/615.png",
+  "dna": "09b3eaa77dffa641fc885f684437e51333885642",
+  "edition": 615,
+  "date": 1654428919905,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Stone Teal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "King Tiger"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Electric Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Sangria Dove"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #373",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/373.png",
+  "dna": "f1f6411053e878de5cbee1d3b545bf98403af9b9",
+  "edition": 373,
+  "date": 1654429498974,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Stone Teal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Iris Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Heat NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Magenta"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Sage Sand"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

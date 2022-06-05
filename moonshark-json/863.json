@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #863",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/863.png",
+  "dna": "8fb42adcc42217e672b1af305b46e37e712e3eae",
+  "edition": 863,
+  "date": 1654429054021,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Blue Whale Glacial Blue Ice"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hawaiian Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Bumblebee"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #90",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/90.png",
+  "dna": "523012a2a30d35c63c31799d9ea4c15c6a56e335",
+  "edition": 90,
+  "date": 1654428733455,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Ocean iris"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Gatorade Fighter"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Bucks NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Fire Emerald"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Ivory Pine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

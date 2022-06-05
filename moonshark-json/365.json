@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #365",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/365.png",
+  "dna": "d1d7b4e90c93d5c62be551e17a0b4589db585995",
+  "edition": 365,
+  "date": 1654429609258,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Voilet Ballet Slipper"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Salt Bae"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Ukraine"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Porpoise"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Moss Pear"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

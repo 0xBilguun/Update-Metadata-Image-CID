@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #660",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/660.png",
+  "dna": "fef8f26f202171ff09c9e21e35a6f0196c85f42e",
+  "edition": 660,
+  "date": 1654429064375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Aegean Iris"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Arctic Triber"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Cotton Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Mauve Blush"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

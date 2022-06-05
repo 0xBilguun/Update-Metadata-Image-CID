@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #163",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/163.png",
+  "dna": "33253975e9e07469a2389219d9f31f320fceeaa4",
+  "edition": 163,
+  "date": 1654429291616,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Mauve Heather Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Butterfinger Spikey"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Fox Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Multi Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Olive Cedar"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

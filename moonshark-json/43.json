@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #43",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/43.png",
+  "dna": "294dc7021f82e394a5de45bf61e1cee16cb837e1",
+  "edition": 43,
+  "date": 1654428782010,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Camouflage Green Hazel Green Fern Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orchid Purple Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Venom Green Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shamrock Tortilla"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Shamrock Fire"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

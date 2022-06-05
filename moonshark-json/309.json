@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #309",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/309.png",
+  "dna": "367e008157db6699ac2e0780d1f24eb741dc213c",
+  "edition": 309,
+  "date": 1654429328115,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Ginger Moccasin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "True Great"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Venom Green Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Porpoise"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Blue Candy"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

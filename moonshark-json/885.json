@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #885",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/885.png",
+  "dna": "eb7e4ff3a87f330110be97c56c560ab9d8e269c9",
+  "edition": 885,
+  "date": 1654429311681,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Hosta Platinum Seaweed"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Parakeet Dragon Tattoo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Azure"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Ocean Coral"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

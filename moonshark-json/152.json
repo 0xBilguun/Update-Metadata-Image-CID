@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #152",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/152.png",
+  "dna": "b9d1c1365afa9edd1d6b195376f2872a2c4bb9b8",
+  "edition": 152,
+  "date": 1654428805301,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Ginger Moccasin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mauve Purple"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Earth Blue RW Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Trout"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Shamrock Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

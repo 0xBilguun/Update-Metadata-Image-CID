@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #330",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/330.png",
+  "dna": "647d3b47082d6c003ed5f2b3f8afd0f9fcd71fd3",
+  "edition": 330,
+  "date": 1654429099540,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Marmalade Teal Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Butterfinger Spikey"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Salt Iris"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Hessian Grape Crow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

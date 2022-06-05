@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #649",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/649.png",
+  "dna": "6b2f5240e32c03f28c87aa1d6cae0f9cf4a64b52",
+  "edition": 649,
+  "date": 1654429492445,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Cerulean Sapphire Arctic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hawaiian Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "OKC NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Anchor"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Ivory Pine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

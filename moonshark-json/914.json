@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #914",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/914.png",
+  "dna": "b9c6968839bce1c276659cd020cbba32ed6ca4b1",
+  "edition": 914,
+  "date": 1654429380678,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mustard Dark Carnation pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Parakeet Dragon Tattoo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Parakeet"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

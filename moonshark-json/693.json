@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #693",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/693.png",
+  "dna": "20798518a816544fb0bc72f3357f563c09a92520",
+  "edition": 693,
+  "date": 1654428936997,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Navy Blue Indigo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Parakeet Dragon Tattoo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Happy Shib Achernar"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Cerulean Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Parakeet"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

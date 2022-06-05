@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #652",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/652.png",
+  "dna": "1caa697b7711fbe4860946fcaca6a4d47d810147",
+  "edition": 652,
+  "date": 1654429116118,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Purple Lilac Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Crazy Yellow Heather"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Poland"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Arctic Pebble"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

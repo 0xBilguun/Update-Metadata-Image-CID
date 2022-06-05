@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1075",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1075.png",
+  "dna": "28d161bc540604877222fb5b0df83da3810b6984",
+  "edition": 1075,
+  "date": 1654429668596,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Smoky Blood"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fawn"
+    },
+    {
+      "trait_type": "Top",
+      "value": "1k Green Planet Rigel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Salt Iris"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Moss Dofoco"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

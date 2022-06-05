@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #798",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/798.png",
+  "dna": "1514302755f2bb78971812382f852bbaa843c2ee",
+  "edition": 798,
+  "date": 1654428964564,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire Breather Shadow Ash"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bumblebee Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Fox Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Green Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Emerald Mint"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

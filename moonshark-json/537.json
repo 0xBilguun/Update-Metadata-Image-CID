@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #537",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/537.png",
+  "dna": "073dbdb13dd3789185203f85553f79e70dde4460",
+  "edition": 537,
+  "date": 1654429661733,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Aquamarine Dark Violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smoke Ganner"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Emerald"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Flamingo Punch"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

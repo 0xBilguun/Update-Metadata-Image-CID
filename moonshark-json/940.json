@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #940",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/940.png",
+  "dna": "92f92d31345d530c82f9487915d2fbfbf0aed08f",
+  "edition": 940,
+  "date": 1654429487207,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Flame Gold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dirty Spruce"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Hessian Thulian Punch"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

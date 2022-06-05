@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #508",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/508.png",
+  "dna": "a1e1e7341f74321e928015ff3320df906ecd5c53",
+  "edition": 508,
+  "date": 1654428910002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Magenta Dijon Sepia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Crocodile Hunter"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Orchid Yellow"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Bumblebee"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

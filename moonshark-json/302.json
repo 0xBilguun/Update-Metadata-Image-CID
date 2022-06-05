@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #302",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/302.png",
+  "dna": "41ddb90955df74e63f05110fc32998a425e8bb1b",
+  "edition": 302,
+  "date": 1654428854024,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Blue Whale Glacial Blue Ice"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dirty Spruce"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Korea"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Iron"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Ochre Mellow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #818",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/818.png",
+  "dna": "11802b1b8090ad94b381997cb4b4274e6ad0faad",
+  "edition": 818,
+  "date": 1654429441313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Crocodile Pear"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Crazy Yellow Heather"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Thunder Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Parakeet Spot"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Ocean Coral"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #870",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/870.png",
+  "dna": "6d81af9dd4198851b1b8170f49c0f4e6ef6e9718",
+  "edition": 870,
+  "date": 1654428873050,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Scarlet Porcelain Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Salt Bae"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Singapore"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Dark Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Aegean Cherry"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

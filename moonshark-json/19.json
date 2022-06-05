@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #19",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/19.png",
+  "dna": "672be392dc46983b812443a560409684e47ec33b",
+  "edition": 19,
+  "date": 1654428704788,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Marmalade Amber Jam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Chicken Lover"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Fire Emerald"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mocassin Aegean"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #843",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/843.png",
+  "dna": "24e2f3ec315cd87cbd163f8595e945beb1d6af1c",
+  "edition": 843,
+  "date": 1654428689701,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Voilet Ballet Slipper"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Parakeet Dragon Tattoo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Purple Camo"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Walnut"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Cedar Fern"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

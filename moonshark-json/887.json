@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #887",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/887.png",
+  "dna": "73b9963df11c307b79a4595e60bba83a38371cc7",
+  "edition": 887,
+  "date": 1654428985671,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire Breather Orchid Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "True Great"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of India"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Army Camo"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mukluks Sapphire Apple"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

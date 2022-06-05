@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #999",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/999.png",
+  "dna": "27a6c7d713a178515596ceec8b643d4ca5693dc8",
+  "edition": 999,
+  "date": 1654429460703,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Mauve Heather"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Great White Stripes"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Jeday Aldebaran"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Multi Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Shamrock Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

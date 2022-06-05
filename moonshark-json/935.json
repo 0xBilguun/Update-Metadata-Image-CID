@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #935",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/935.png",
+  "dna": "5b3e8263c1ac83925e6ea69c251e081542e38127",
+  "edition": 935,
+  "date": 1654428772021,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Flame Blue Teal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "King Tiger"
+    },
+    {
+      "trait_type": "Top",
+      "value": "1k Green Planet Rigel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Burgundy Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Pickle"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

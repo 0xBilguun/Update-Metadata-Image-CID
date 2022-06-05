@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1078",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1078.png",
+  "dna": "77ff5a8da74dfe8d9b8dca7200dafaac9a8f330a",
+  "edition": 1078,
+  "date": 1654428780233,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kelly Green Red Dirt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tangerine Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Sixers NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Lapis"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Graphite Brunette"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

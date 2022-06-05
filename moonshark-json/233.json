@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #233",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/233.png",
+  "dna": "39fb03a8979777d5c36fe6751c59e755a06962cd",
+  "edition": 233,
+  "date": 1654428729175,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire Breather Shadow Ash"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Frosted Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Israel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Mauve Blush"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

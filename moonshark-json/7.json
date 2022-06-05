@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #7",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/7.png",
+  "dna": "7282a4abae3b9f9afcd873567b36682af2b43c76",
+  "edition": 7,
+  "date": 1654429247733,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Magenta Dijon Sepia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Bucks NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Emerald"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mukluks Sapphire Apple"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

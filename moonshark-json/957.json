@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #957",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/957.png",
+  "dna": "8fb93e56c651cb43a581c9460aedb2de09f2e023",
+  "edition": 957,
+  "date": 1654428881747,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kelly Green Red Dirt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mr. Avatar"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Slate Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

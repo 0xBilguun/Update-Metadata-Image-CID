@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #10",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/10.png",
+  "dna": "4ae23000df4ba62f8db642f90db1ba0c5ba1a997",
+  "edition": 10,
+  "date": 1654429252543,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Purple Heather"
+    },
+    {
+      "trait_type": "Body",
+      "value": "King Tiger"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Fern"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Pickle"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #491",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/491.png",
+  "dna": "0ed669de05d26cf028c4777947a53db324ffe0f1",
+  "edition": 491,
+  "date": 1654429142221,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Marmalade Amber Jam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smoke Ganner"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Dark Slate Grey Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Independence"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mocassin Iron Lime"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

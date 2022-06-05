@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #69",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/69.png",
+  "dna": "6cd6e6950c53142a833d0395a1f911b78b053455",
+  "edition": 69,
+  "date": 1654428693222,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Flame Orchid Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mr. Avatar"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Jazz NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jade"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Parakeet"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1057",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1057.png",
+  "dna": "b02f0eacedaa584b539d9662049feef542b0d55e",
+  "edition": 1057,
+  "date": 1654429488070,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Marmalade Amber Jam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Porpoise Spears"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Dorohedoro Fan"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Amethyst"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Parakeet"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

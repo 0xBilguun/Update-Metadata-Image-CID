@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #115",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/115.png",
+  "dna": "d1a94ed258a564a6c63e5b8fbe536548a7d21f1b",
+  "edition": 115,
+  "date": 1654429366885,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Slate Olive"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "GSW NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jade Seal"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Cerulean"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

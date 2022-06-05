@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #718",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/718.png",
+  "dna": "bfc8d1d1c2455802e6c75b47d9d12dc6ec1573dd",
+  "edition": 718,
+  "date": 1654429006219,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Rouge Flamingo Cider"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Heather Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Silver Cyborg Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Mocha Gold"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

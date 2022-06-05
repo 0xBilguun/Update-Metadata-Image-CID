@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #155",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/155.png",
+  "dna": "2abdb24ac853c5f563833bcd67e59a4b34672b72",
+  "edition": 155,
+  "date": 1654428849818,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Smokey Battleship Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mr. Avatar"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Walnut"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Moss Pear"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

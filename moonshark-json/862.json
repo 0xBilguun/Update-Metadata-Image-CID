@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #862",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/862.png",
+  "dna": "1827e5e288274a4cae40a9b095047170f2199079",
+  "edition": 862,
+  "date": 1654428742337,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Lilac Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Russia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Anchor"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Sage Sand"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

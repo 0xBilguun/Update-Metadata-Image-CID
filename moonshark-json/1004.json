@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1004",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1004.png",
+  "dna": "40aaccfa0ef26fef3d37c7ed0326c3c4250f6338",
+  "edition": 1004,
+  "date": 1654428824290,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Tangerine Latte"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Butterfinger Spikey"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Silver Cyborg Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Amethyst"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Ocean Fern"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

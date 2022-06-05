@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #932",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/932.png",
+  "dna": "5a28f43976e74dbc895547888738884faec07d90",
+  "edition": 932,
+  "date": 1654429170827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Camouflage Green Hazel Green Fern Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Laker Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Purple Camo"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Chi Bulls"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Shamrock Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

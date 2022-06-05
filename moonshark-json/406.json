@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #406",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/406.png",
+  "dna": "f9575b97ceb6aaa9cee5db6fe256243fce967760",
+  "edition": 406,
+  "date": 1654428847399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Aquamarine Dark Violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Lakers NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Iris Heather"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Apricot Banana"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

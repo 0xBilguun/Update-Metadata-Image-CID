@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #326",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/326.png",
+  "dna": "fa3d6eaea581cc4176c235f6cc3e258276dd24d4",
+  "edition": 326,
+  "date": 1654428813516,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mustard Dark Carnation pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tangerine Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of China"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Iris Heather"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Crimson Snow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

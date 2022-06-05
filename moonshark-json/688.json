@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #688",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/688.png",
+  "dna": "c073ea97a412784b6f781573ff4f01fd4b8bfe12",
+  "edition": 688,
+  "date": 1654429515244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kelly Green Red Dirt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mauve Purple"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Doflamingo TG Canopus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boston Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Mauve Blush"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

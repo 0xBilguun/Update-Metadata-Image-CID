@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #387",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/387.png",
+  "dna": "a5c1090dac4a99f9443e2a4d9d8f77ec93fe8c73",
+  "edition": 387,
+  "date": 1654429627506,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Flame Orchid Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Apple Red"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Independence"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mocassin Iron Lime"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

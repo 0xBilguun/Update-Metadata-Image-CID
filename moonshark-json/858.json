@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #858",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/858.png",
+  "dna": "5070e38d5537e06625b63448da5a280bf22a6532",
+  "edition": 858,
+  "date": 1654429010349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Lemon Fuscia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Thunder Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Fern"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Basil Crocodile"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

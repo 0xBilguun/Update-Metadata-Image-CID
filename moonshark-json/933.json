@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #933",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/933.png",
+  "dna": "f85eb96d430ca8708339fd8b16dad29d6b1a7577",
+  "edition": 933,
+  "date": 1654428957794,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Fern Ocean Stone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Snow Purple"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Dorohedoro Fan"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Sangria"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Olive Cedar"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

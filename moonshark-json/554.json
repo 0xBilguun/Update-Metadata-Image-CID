@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #554",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/554.png",
+  "dna": "36ae4c5a15245b5a293bd3b5ab39d90c4669743e",
+  "edition": 554,
+  "date": 1654429557130,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Magenta Dijon Sepia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Iris Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Israel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Sangria"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Grape Rouge"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #203",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/203.png",
+  "dna": "aaa812ea2a113d6cfcf5db6d7bd8d020b41551c1",
+  "edition": 203,
+  "date": 1654429105206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Lemon Fuscia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mr. Avatar"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Lapis"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Carrot Basil"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

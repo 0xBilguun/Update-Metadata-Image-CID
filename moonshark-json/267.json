@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #267",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/267.png",
+  "dna": "7210beb9012e93b6f42b569bc0f2c7fcc7806df7",
+  "edition": 267,
+  "date": 1654429447342,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Cobalt Brick Hazelwood"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orchid Purple Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Apricot Shadow"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mukluks Sapphire Apple"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

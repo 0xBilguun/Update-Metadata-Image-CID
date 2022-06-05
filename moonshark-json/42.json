@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #42",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/42.png",
+  "dna": "7f079fb531c987440d714a7b754d29cefb3b1ec3",
+  "edition": 42,
+  "date": 1654429640094,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Flame Orchid Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sandcastle gunner"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Night Blood Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Walnut"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Yellow Navy"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

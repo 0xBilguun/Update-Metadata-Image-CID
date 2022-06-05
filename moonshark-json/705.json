@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #705",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/705.png",
+  "dna": "6b6799b13a2f5a315e8ee6f4733088fec1a652d4",
+  "edition": 705,
+  "date": 1654428782835,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Navy Blue Indigo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pear Striped Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Dark Slate Grey Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shamrock Tortilla"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Pickle"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

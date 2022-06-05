@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #988",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/988.png",
+  "dna": "054acf4f886e8fb93475bdf2548e34d640fda4f8",
+  "edition": 988,
+  "date": 1654428927348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Purple Heather"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mauve Purple"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Fox Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Fern"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Arctic Pebble"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

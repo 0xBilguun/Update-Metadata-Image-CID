@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #790",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/790.png",
+  "dna": "8bc72a017616a023978a99d714e516b9443e16ed",
+  "edition": 790,
+  "date": 1654429251807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Dijon Oyster Sand Dollar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Porpoise Spears"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Yam Spruce"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

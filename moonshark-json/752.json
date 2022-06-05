@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #752",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/752.png",
+  "dna": "8225256688510d6700e8fd0bfe90f9e9867e30c3",
+  "edition": 752,
+  "date": 1654429013785,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Dijon Oyster Sand Dollar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Parakeet Dragon Tattoo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Orchid Yellow"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Fuscia Lilac"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

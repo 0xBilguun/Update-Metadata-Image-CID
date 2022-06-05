@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #413",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/413.png",
+  "dna": "f70df2ef299cef939d9227ee50c338289cd365c9",
+  "edition": 413,
+  "date": 1654428709710,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Flame Orchid Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Gatorade Fighter"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Devilman Pig Pink Canopus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Iceberg"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Rasin Wine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

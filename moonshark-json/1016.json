@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1016",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1016.png",
+  "dna": "3d27c8a23e951b00586079c1e09442089d184e7e",
+  "edition": 1016,
+  "date": 1654429570254,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Moss Teal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Granola Chicken"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boston Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Sangria Dove"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

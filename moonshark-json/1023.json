@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1023",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1023.png",
+  "dna": "7ca7649f9163c917b56bc8be3b6bb08777c993a6",
+  "edition": 1023,
+  "date": 1654429355428,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Mauve Heather Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyber Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Thunder Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Cotton Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Grape Rouge"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

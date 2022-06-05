@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1019",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1019.png",
+  "dna": "4b22ca6c61e93f4f9f00b68a917ac303ef9c4a18",
+  "edition": 1019,
+  "date": 1654429647450,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Lilac Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Bomber"
+    },
+    {
+      "trait_type": "Top",
+      "value": "OKC NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Anchor"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Magenta Berry"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

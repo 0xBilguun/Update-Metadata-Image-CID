@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #948",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/948.png",
+  "dna": "cca9a5161861c40bf304698d3ff6aec76539b191",
+  "edition": 948,
+  "date": 1654429417932,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Purple Heather"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tron Stripes"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Egyptian"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Yam Spruce"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

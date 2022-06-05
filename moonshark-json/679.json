@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #679",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/679.png",
+  "dna": "3cf3e0ee1300d5c457f16d33de2ada7f586a107e",
+  "edition": 679,
+  "date": 1654428791086,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Cerulean Sapphire Arctic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Granola Chicken"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Thunder Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Lava"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Sage Sand"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

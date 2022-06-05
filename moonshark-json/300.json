@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #300",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/300.png",
+  "dna": "dc548dd0bc86db3dfea6aa1767cbac7a28064ae0",
+  "edition": 300,
+  "date": 1654428976712,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Parakeet Lime"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tattoo Tobinski"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Devilman Pig Pink Canopus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Independence"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Hessian Grape Crow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

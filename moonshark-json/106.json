@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #106",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/106.png",
+  "dna": "19ad4adaec47d4f16e163c334fdbee88f8401952",
+  "edition": 106,
+  "date": 1654429463068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Cerulean Tangerine Cantaloupe"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cobalt Green Stripes"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Shib Rigel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Azure"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pickle Violet"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

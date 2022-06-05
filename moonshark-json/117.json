@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #117",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/117.png",
+  "dna": "cc90dcf1abd725b93b0f2300fceae42a942ae582",
+  "edition": 117,
+  "date": 1654429403857,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Cerulean Tangerine Cantaloupe"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bumblebee Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Studded Nature Green"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

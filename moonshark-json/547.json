@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #547",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/547.png",
+  "dna": "16c25b7bb20fcb8af891c82673a6014236875996",
+  "edition": 547,
+  "date": 1654428984860,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Yellow Taffy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boston Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Porpoise Dijon"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

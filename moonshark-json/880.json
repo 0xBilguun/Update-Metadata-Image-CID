@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #880",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/880.png",
+  "dna": "9ea4be3eebc733f2b779646d56503629d6e6ce63",
+  "edition": 880,
+  "date": 1654429510224,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Medium Forest Rubber Ducky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pear Green"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Leopard Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Cerulean"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

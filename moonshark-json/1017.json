@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1017",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1017.png",
+  "dna": "ce4d5fca6b28a1bfce15f378c48e6dcdedaca5cf",
+  "edition": 1017,
+  "date": 1654429577830,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Crocodile Pear"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Chicken Lover"
+    },
+    {
+      "trait_type": "Top",
+      "value": "1k Green Planet Rigel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jade"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Mulberry Honey"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

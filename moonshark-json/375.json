@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #375",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/375.png",
+  "dna": "69c3ac192544257163621c9234a7e45d07402839",
+  "edition": 375,
+  "date": 1654429240156,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Marmalade Amber Jam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stone Face Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Thunder Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Cedar Fern"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

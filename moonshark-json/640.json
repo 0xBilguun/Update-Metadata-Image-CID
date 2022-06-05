@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #640",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/640.png",
+  "dna": "ff392174f3f868f15183a6b493fadeb388e6d074",
+  "edition": 640,
+  "date": 1654428796091,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Moccasin Sandstone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Heather Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Turkey"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Gingerbread"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Sage Sand"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

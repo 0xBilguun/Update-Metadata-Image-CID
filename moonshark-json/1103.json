@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1103",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1103.png",
+  "dna": "bbb2df4456be5d6675cd2bb2fa6cf49d34879463",
+  "edition": 1103,
+  "date": 1654429297624,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Chartreuse Cedar Peanut"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyber Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Hessian Grape Crow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #683",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/683.png",
+  "dna": "4c25af582eb328172c3016e752df8d649e4ebade",
+  "edition": 683,
+  "date": 1654429352942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Light Slate Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Gingerbread"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat MultiCamo"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

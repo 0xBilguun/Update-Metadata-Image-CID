@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #8",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/8.png",
+  "dna": "0f3fd413a6ef06d892c3c664374938d461102d64",
+  "edition": 8,
+  "date": 1654429001293,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Stone Teal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Earth Blue RW Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Grape Sangria"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

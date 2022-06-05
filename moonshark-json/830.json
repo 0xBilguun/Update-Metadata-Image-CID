@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #830",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/830.png",
+  "dna": "27ef9ce52538e74438ad77404d43d9e60c353000",
+  "edition": 830,
+  "date": 1654429586079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mustard Dark Carnation pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Silver Cyborg Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Espresso"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Magenta Berry"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

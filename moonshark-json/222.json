@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #222",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/222.png",
+  "dna": "a71088428d666b450651ed6adeadd0859c2c1304",
+  "edition": 222,
+  "date": 1654428750646,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Frame Fire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Iris Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Parakeet"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

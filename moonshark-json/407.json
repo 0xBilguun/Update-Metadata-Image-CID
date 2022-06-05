@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #407",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/407.png",
+  "dna": "b1522b317dfffa932af4357f8222db932aa70b97",
+  "edition": 407,
+  "date": 1654429481267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Iris Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Frosted Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "All Eyes on MJ"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Helio"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mocassin Aegean"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

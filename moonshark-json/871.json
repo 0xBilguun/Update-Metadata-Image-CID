@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #871",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/871.png",
+  "dna": "a0e5687db90e2ef92a06a359505a0204b31154a9",
+  "edition": 871,
+  "date": 1654428835139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Cerulean Sapphire Arctic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Heather Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Sangria"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Coffee"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

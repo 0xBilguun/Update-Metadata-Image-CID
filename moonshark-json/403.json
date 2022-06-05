@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #403",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/403.png",
+  "dna": "381503cc212c0bd19e03e46c6b831f6481545e08",
+  "edition": 403,
+  "date": 1654429361866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Fern Ocean Stone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Arctic Triber"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Celtics NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boston Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Cobalt Latte"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

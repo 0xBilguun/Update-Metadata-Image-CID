@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #703",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/703.png",
+  "dna": "a6c218cfca56143155dbdd93174cb2182382c492",
+  "edition": 703,
+  "date": 1654429429240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Scarlet Porcelain Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "True Great"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Devilman Pig Pink Canopus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "MultiCamo"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Ruby Lavender"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #556",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/556.png",
+  "dna": "76d9ccd71d7c6be1cd14ca48a1dbc35b888707c9",
+  "edition": 556,
+  "date": 1654429575310,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Dijon Oyster Sand Dollar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Bomber"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Earth Blue RW Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Byzantine"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Jam Umber"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

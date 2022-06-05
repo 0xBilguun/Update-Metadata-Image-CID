@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #865",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/865.png",
+  "dna": "d8b8b5670180bda003788a727f493b5bcf72ead5",
+  "edition": 865,
+  "date": 1654429569483,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chupapi Magenta Taffy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Coffee"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

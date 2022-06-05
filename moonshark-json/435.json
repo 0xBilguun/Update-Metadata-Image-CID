@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #435",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/435.png",
+  "dna": "e68ac03890be467360cdd7ab94d027b1fd881187",
+  "edition": 435,
+  "date": 1654429217911,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Light Slate Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dirty Spruce"
+    },
+    {
+      "trait_type": "Top",
+      "value": "All Eyes on MJ"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Electric Kant"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Aegean Cherry"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

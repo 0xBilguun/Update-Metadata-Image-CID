@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #881",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/881.png",
+  "dna": "ca9498579b4bce09995381e6978f71aa81c4af25",
+  "edition": 881,
+  "date": 1654428698984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Mauve Heather"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tangerine Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Happy Shib Achernar"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Sacramento"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Cerulean"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

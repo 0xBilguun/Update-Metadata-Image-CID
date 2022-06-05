@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1055",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1055.png",
+  "dna": "ffd4694194e19423daf402db513d3cca60f7a937",
+  "edition": 1055,
+  "date": 1654429053253,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Iris Sage Pistachoi"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Biscotti Spotted"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Spurs NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jade Seal"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Snow Apple"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

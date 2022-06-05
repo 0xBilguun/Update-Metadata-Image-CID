@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #346",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/346.png",
+  "dna": "94a3397eeeacf8f44c7f263bd185156b445d03fc",
+  "edition": 346,
+  "date": 1654429360291,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Ocean Teal Frost"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Mulberry"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pine Seaweed"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

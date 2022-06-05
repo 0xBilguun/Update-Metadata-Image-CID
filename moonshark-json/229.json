@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #229",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/229.png",
+  "dna": "22f066a0109e50ea97543887ff36b465e305e663",
+  "edition": 229,
+  "date": 1654429436443,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Hazelwood Oyster"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sapphire Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Parakeet Spot"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Lime Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

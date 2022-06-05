@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #904",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/904.png",
+  "dna": "e302fc03d4f30c3e286b3a5d6c937cc21c1a36ce",
+  "edition": 904,
+  "date": 1654428946978,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire Breather Orchid Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hawaiian Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Shib Rigel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Crocodile Seaweed"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Slate Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #861",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/861.png",
+  "dna": "5d8ec01b6b743b7b2415c05fabe0aab7e4a97600",
+  "edition": 861,
+  "date": 1654429256683,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Iris Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sage Infinity Gauntlet"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of USA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Lava"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Arctic Ocean"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

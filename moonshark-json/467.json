@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #467",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/467.png",
+  "dna": "9e1015a9c12003d007cea55912020a1e194bf93c",
+  "edition": 467,
+  "date": 1654429486371,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Iris Sage Pistachoi"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dirty Spruce"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Devilman Pig Pink Canopus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Iron"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pickle Violet"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

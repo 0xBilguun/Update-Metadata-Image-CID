@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #658",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/658.png",
+  "dna": "2eaac5bb892998c2be1b7564b36712a7bbda5eff",
+  "edition": 658,
+  "date": 1654428975958,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Tangerine Latte"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ballet Slipper"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Night Blood Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Grape"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Pickle Violet"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

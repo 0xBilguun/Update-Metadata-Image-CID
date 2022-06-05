@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #650",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/650.png",
+  "dna": "cea8009120a6ad62847cd7217988c7e3a3be1bc7",
+  "edition": 650,
+  "date": 1654429598442,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Jellyfish Aztech Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stone Face Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Russia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Fern"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Mulberry Honey"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #883",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/883.png",
+  "dna": "e8716f8af700846373d71bb4cb6768a2b6dfe032",
+  "edition": 883,
+  "date": 1654429370170,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire Breather Yellow Lemon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mauve Purple"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Earth Blue RW Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Lapis"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Ocean Coral"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

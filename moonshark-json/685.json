@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #685",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/685.png",
+  "dna": "4704aaf14c8133582432576f6dfd2d46379ebe34",
+  "edition": 685,
+  "date": 1654429250177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Caramel Oat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orchid Purple Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "White Blood Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Turkish Sky"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

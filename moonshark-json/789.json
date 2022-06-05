@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #789",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/789.png",
+  "dna": "1622eb6770aaff53d619ca53fcb129caa7d03ea5",
+  "edition": 789,
+  "date": 1654429525630,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deimos Tangerine Latte"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tortilla Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Doflamingo TG Canopus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shamrock Tortilla"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Ivory Pine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

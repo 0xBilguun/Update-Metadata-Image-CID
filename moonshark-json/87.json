@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #87",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/87.png",
+  "dna": "864d41a98746a3200a88f7d134ff8e4dec9c5df8",
+  "edition": 87,
+  "date": 1654428862312,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Frame Fire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pear Green"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Byzantine"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Chukka Shamrock Chartreuse"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

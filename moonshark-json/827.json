@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #827",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/827.png",
+  "dna": "8a0493623cdb78186426503565d8d6bf83daefac",
+  "edition": 827,
+  "date": 1654429338168,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Iris Sage Pistachoi"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ballet Slipper"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Dark Slate Grey Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Sky Orange"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

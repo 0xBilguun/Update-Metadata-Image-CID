@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #168",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/168.png",
+  "dna": "26de0945d56765ef96ef90ba82e01702d26c9af3",
+  "edition": 168,
+  "date": 1654428887456,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Rouge Flamingo Cider"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Granola Chicken"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Jeday Aldebaran"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Burgundy Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Mauve Blush"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #450",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/450.png",
+  "dna": "f147269c08718f7e9e7ea7c083b8bea3af89822b",
+  "edition": 450,
+  "date": 1654429423163,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Camouflage Green Hazel Green Fern Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sage Infinity Gauntlet"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Koi Gucci Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Bumblebee"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

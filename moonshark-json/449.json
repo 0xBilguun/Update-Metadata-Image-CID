@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #449",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/449.png",
+  "dna": "87bb5ad0e46f50a76ad838067bf6ced3f2622001",
+  "edition": 449,
+  "date": 1654429631791,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Black Fossil Latte"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orchid Purple Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Venom Green Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Violet Bumblebee"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

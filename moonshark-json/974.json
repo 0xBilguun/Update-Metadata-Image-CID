@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #974",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/974.png",
+  "dna": "ed2fada2a88d99ace668ce0a537c5a659c8f3003",
+  "edition": 974,
+  "date": 1654429551995,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Jellyfish Aztech Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mr. Avatar"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Colombia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jade Seal"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Iris Ruby"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

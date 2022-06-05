@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1011",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1011.png",
+  "dna": "9ab816f5e29445f7e56a59a14e9fff4384d650c4",
+  "edition": 1011,
+  "date": 1654429014637,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Tortilla Sage Olive"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Glowing Gutter"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Earth Blue RW Sirius"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jade"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Rasin Wine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1020",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1020.png",
+  "dna": "1ceb88c7a771f180e34165e5bd8afcf75b15ca82",
+  "edition": 1020,
+  "date": 1654429243522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Cobalt Brick Hazelwood"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Crazy Yellow Heather"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Heat NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Egyptian"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Studded Nature Green"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

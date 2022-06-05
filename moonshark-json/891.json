@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #891",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/891.png",
+  "dna": "b9a88e60682f0ab91f87794cd9e2c7a08223027f",
+  "edition": 891,
+  "date": 1654428849008,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Medium Forest Rubber Ducky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Granola Chicken"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Happy Shib Achernar"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Caulk Aegean Cherry"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

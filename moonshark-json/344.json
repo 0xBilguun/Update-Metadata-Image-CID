@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #344",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/344.png",
+  "dna": "537acacc5d9da96ef823c77e598b56993fb01428",
+  "edition": 344,
+  "date": 1654429346235,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Blush Rose"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sky Walker"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Fox Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Chi Bulls"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Moss Dofoco"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

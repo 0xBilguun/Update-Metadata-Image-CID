@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #832",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/832.png",
+  "dna": "da9b92b75c1651a5106b298b42137bc85c7aeab2",
+  "edition": 832,
+  "date": 1654429580274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Io Hazelwood Oyster"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Heather Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Fox Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shamrock Tortilla"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Grape Rouge"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

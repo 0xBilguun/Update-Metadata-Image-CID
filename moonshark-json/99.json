@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #99",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/99.png",
+  "dna": "861a9a3a6dd0213ad7af80627f3e08e0326b6c6b",
+  "edition": 99,
+  "date": 1654429284310,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Purple Lilac Periwinkle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Decapitator"
+    },
+    {
+      "trait_type": "Top",
+      "value": "White Blood Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Dark Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Ruby Lavender"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

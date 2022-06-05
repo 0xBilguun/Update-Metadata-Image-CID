@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #472",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/472.png",
+  "dna": "087df691bfc0179e4bdc7fd96100943c9197852b",
+  "edition": 472,
+  "date": 1654428752373,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Ocean iris"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Iris Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Thunder Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Porpoise Tortilla"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

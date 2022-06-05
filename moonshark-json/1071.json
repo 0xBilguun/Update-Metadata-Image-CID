@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1071",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1071.png",
+  "dna": "24a7c8c6c55c1fcff9214c52f65cb88a034eb440",
+  "edition": 1071,
+  "date": 1654429018626,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Watermelon Pink Dark Slate Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bumblebee Panther"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Canada"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Chill"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Ochre Mellow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

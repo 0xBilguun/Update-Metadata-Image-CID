@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #386",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/386.png",
+  "dna": "9906f40ac3dbc95988396b982c541ed70d4e076a",
+  "edition": 386,
+  "date": 1654429657500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Triton Flame Jellyfish Aztech Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Snow Purple"
+    },
+    {
+      "trait_type": "Top",
+      "value": "1k Green Planet Rigel"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Amethyst"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Mocassin Iron Lime"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

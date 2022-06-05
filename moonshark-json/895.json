@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #895",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/895.png",
+  "dna": "e1169706e63accb90ea531b4bf9ca81e2dfa87c3",
+  "edition": 895,
+  "date": 1654429221318,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Cerulean Tangerine Cantaloupe"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Frosted Gatorade"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Happy Shib Achernar"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Chi Bulls"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Carrot Basil"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

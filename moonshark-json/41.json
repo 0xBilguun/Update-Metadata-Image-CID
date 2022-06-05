@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #41",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/41.png",
+  "dna": "466e9e1bb5617f081786d3b2159652ba915126ac",
+  "edition": 41,
+  "date": 1654428737550,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Atlas Light Slate Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "True Great"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Burgundy Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Admiral Fire"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

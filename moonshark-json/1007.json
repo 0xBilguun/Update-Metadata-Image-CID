@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #1007",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/1007.png",
+  "dna": "cd00b23707365ab44594b624fede541955eae05b",
+  "edition": 1007,
+  "date": 1654429471711,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Flame Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyber Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of China"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shamrock Tortilla"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Porpoise Dijon"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

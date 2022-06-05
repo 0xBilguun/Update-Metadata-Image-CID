@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #443",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/443.png",
+  "dna": "885e05e1562ca1b20a44c63d7ca89040ef1289e9",
+  "edition": 443,
+  "date": 1654429280006,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chupapi Magenta Taffy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Chicken Lover"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Salt Iris"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Sky Orange"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

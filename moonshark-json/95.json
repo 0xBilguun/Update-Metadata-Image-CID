@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #95",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/95.png",
+  "dna": "ff8ef29b2fb1aaaa72ee519aad5ba2e4b5f84147",
+  "edition": 95,
+  "date": 1654429068429,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Phobos Ocean Teal Frost"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cobalt Green Stripes"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Egyptian"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Rigger Mauve Blush"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

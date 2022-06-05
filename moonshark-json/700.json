@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #700",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/700.png",
+  "dna": "fe643a5b839d2bbc186194cdfe8184b4adeea699",
+  "edition": 700,
+  "date": 1654428775279,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solar Frame Red Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Iris Assasin"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of China"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat MultiCamo"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

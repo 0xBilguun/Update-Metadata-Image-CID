@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #293",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/293.png",
+  "dna": "edba0c1322be7a4fde1f4ab0e54de15cb4661598",
+  "edition": 293,
+  "date": 1654429482077,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Smoky Blood"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Battle Scar"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Fox Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Lava"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Shamrock Fire"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

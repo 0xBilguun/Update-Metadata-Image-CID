@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #422",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/422.png",
+  "dna": "d3e7246709a4a02e43e683b5b9001af894cc2036",
+  "edition": 422,
+  "date": 1654429604356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud Chartreuse Cedar Peanut"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sage Green Sugar"
+    },
+    {
+      "trait_type": "Top",
+      "value": "OKC NBA"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shamrock Tortilla"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Apricot Banana"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

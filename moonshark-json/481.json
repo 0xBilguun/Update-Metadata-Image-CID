@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #481",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/481.png",
+  "dna": "6b75de44bb2abe636dd4a28146458c953ddcec99",
+  "edition": 481,
+  "date": 1654428696470,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Ruby Lime Chartreuse"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Crazy Yellow Heather"
+    },
+    {
+      "trait_type": "Top",
+      "value": "All Eyes on MJ"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Wader Blue Candy"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

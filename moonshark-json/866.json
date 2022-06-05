@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #866",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/866.png",
+  "dna": "17ba593f8231fb285d453d9e2c54deee8993aef5",
+  "edition": 866,
+  "date": 1654429684237,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Ruby Lime Chartreuse"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Glowing Gutter"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shamrock Tortilla"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat Rasin Wine"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

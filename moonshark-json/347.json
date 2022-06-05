@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #347",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/347.png",
+  "dna": "f11ea1d16e5cff8650a51d4dfba3155d84bc6084",
+  "edition": 347,
+  "date": 1654429602805,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire Breather Blood Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stone Face Killer"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Medium Forest Deneb"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jade"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Combat MultiCamo"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

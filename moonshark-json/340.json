@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #340",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/340.png",
+  "dna": "f0f2f6a946a79e0861a06d9c259f9381118334fa",
+  "edition": 340,
+  "date": 1654429428409,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mimas Iris Sage Pistachoi"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smoke Ganner"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Venom Green Vega"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Defense Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Jodphur Shamrock Fire"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

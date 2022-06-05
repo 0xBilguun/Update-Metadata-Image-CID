@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #498",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/498.png",
+  "dna": "9862be3b76de65eef7918be33b0b7c263584a9a6",
+  "edition": 498,
+  "date": 1654429155705,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Blush Rose"
+    },
+    {
+      "trait_type": "Body",
+      "value": "King Tiger"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Plum Velvet Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Mulberry"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Hessian Thulian Punch"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

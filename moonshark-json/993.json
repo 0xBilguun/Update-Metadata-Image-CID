@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #993",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/993.png",
+  "dna": "a676ecd9e83fd14b5ceaef37f164c87b1edea429",
+  "edition": 993,
+  "date": 1654429244351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Europa Stone Teal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ballet Slipper"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Flag of Russia"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Iris Heather"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Flamingo Punch"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}

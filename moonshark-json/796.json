@@ -1,0 +1,31 @@
+{
+  "name": "MoonSharks #796",
+  "description": "MoonSharks is a gamified investment DAO for web 3 builders",
+  "image": "https://moonsharks.mypinata.cloud/ipfs/QmQrWoXpstG2VjjjNacYr92kb7jgaoQynNAcKuvziVcKVf/796.png",
+  "dna": "582237f5ff3de00c81f2ef2b05e65dfb1baef9f5",
+  "edition": 796,
+  "date": 1654429058232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Yellow Taffy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Porpoise Spears"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brass Arcturus"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Boots",
+      "value": "Cavalry Ochre Mellow"
+    }
+  ],
+  "compiler": "MoonSharks Engine"
+}
